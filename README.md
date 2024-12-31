@@ -1,6 +1,6 @@
 # Biography
 
-I am a Ph.D. graduate frome Department of Computer Science and Engineering at Nanyang Technological University in Singapore. My PHD research focus was on out-of-distribution detection and reasoning with the application of autonomous vehicles. Previously, I got my Master of Software Engineering and Bachelor of Computer Science from Shahid Beheshti University in Iran. 
+Currently I am postdoctral researcher at Aalto university in Finland under supervision of professors Samuel Kaski and Arto Klami. My postdoctral research focuses on intersection of distribution shift and human-in-the-loop machine learning. Previously I got my Ph.D.  from Department of Computer Science and Engineering at Nanyang Technological University in Singapore. My PHD research focus was on out-of-distribution detection and reasoning with the application of autonomous vehicles. Before that, I got my Master of Software Engineering and Bachelor of Computer Science from Shahid Beheshti University in Iran. 
 
 ### Education
 
