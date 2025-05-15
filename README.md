@@ -14,6 +14,11 @@ Currently I am postdoctral researcher at Aalto university in Finland under super
 - Generative models
 - Disentangling latent space of VAE
 
+### Teaching
+
+- 2025-Special Course in Machine Learning, Data Science and Artificial Intelligence D: Causal Inference
+
+
 
 ### Publications
 - Rahiminasab, Zahra, Michael Yuhas, and Arvind Easwaran. "Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder."
