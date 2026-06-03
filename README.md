@@ -1,6 +1,13 @@
 # Biography
 
-Currently I am postdoctral researcher at Aalto university in Finland under supervision of professors Samuel Kaski and Arto Klami. My postdoctral research focuses on intersection of distribution shift and human-in-the-loop machine learning. Previously I got my Ph.D.  from Department of Computer Science and Engineering at Nanyang Technological University in Singapore. My PHD research focus was on out-of-distribution detection and reasoning with the application of autonomous vehicles. Before that, I got my Master of Software Engineering and Bachelor of Computer Science from Shahid Beheshti University in Iran. 
+Currently I am postdoctral researcher at Aalto university in Finland under supervision of professor Harri Lähdesmäki. My postdoctral research focuses on intersection of distribution shift and causal inference and health data. Previously I was postdoctral researcher at Aalto university in Finland under supervision of professors
+ Samuel Kaski and Arto Klami. During this time my research focused on intersection of distribution shift and human-in-the-loop machine learning. Previously I got my Ph.D.  from Department of Computer Science and Engineering at Nanyang Technological University in Singapore. My PHD research focus was on out-of-distribution detection and reasoning with the application of autonomous vehicles. Before that, I got my Master of Software Engineering and Bachelor of Computer Science from Shahid Beheshti University in Iran. 
+
+### News
+- I  joined Computational Systems Biology research group (CSB) as postdoctral researcher at Aalto University
+- Our paper "Point-Identification of a Robust Predictor Under Latent Shift with Imperfect Proxies" is accepted in TMLR
+
+
 
 ### Education
 
@@ -21,6 +28,8 @@ Currently I am postdoctral researcher at Aalto university in Finland under super
 
 
 ### Publications
+-  Rahiminasab Zahra,  Soumi Reza,  Klami Arto,  Kaski Samuel. "Point-Identification of a Robust Predictor Under Latent Shift with Imperfect Proxies
+" Transactions on Machine Learning Research (TMLR), 2026
 - Rahiminasab, Zahra, Michael Yuhas, and Arvind Easwaran. "Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder."
     2022 6th International Conference on System Reliability and Safety (ICSRS). IEEE, 2022.
 - Ramakrishna, Shreyas, Zahra Rahiminasab, Gabor Karsai, Arvind Easwaran, and Abhishek Dubey. "Efficient out-of-distribution detection using latent space of β-vae for cyber-physical systems."
