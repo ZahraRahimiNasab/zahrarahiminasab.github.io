@@ -16,7 +16,8 @@ Currently I am postdoctral researcher at Aalto university in Finland under super
 - Shahid Beheshti University, Iran,  B.S. in  Computer Science,  2010 -- 2014
 
 ### Reserach interest
-
+- Causal inference
+- Domain adaptation
 - Out-of-distribution detection and reasoning
 - Generative models
 - Disentangling latent space of VAE
